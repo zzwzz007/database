@@ -1,69 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/mysys/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/MySqlConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/model/FlightInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/model/FlightStatisticInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/model/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/AdminLoginScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/AdminLoginSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/AdminScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/AdminSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/BeginScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/BeginSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/BookingScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/BookingSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/GetTicketScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/GetTicketSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/LoginScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/LoginSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/PaymentScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/PaymentSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/RechargeScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/RechargeSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/RegisterScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/RegisterSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/TicketScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/TicketSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/UserScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysys/view/UserSceneController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/MySqlConnect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/model/FlightInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/model/FlightStatisticInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/model/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/model/UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/AdminLoginScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/AdminLoginSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/AdminScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/AdminSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/BeginScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/BeginSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/BookingScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/BookingSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/GetTicketScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/GetTicketSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/LoginScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/LoginSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/PaymentScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/PaymentSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/RechargeScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/RechargeSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/RegisterScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/RegisterSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/TicketScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/TicketSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/UserScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/UserSceneController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/msm/view/UserSceneController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/MySqlConnect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/model/FlightInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/model/FlightStatisticInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/model/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/model/UserInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/AdminLoginScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/AdminLoginSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/AdminScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/AdminSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/BeginScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/BeginSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/BookingScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/BookingSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/GetTicketScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/GetTicketSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/LoginScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/LoginSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/PaymentScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/PaymentSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/RechargeScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/RechargeSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/RegisterScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/RegisterSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/TicketScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/TicketSceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/UserScene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/msm/view/UserSceneController.java" beforeDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,19 +86,27 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mysys/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="-264">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mysys/view/BookingScene.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
     </leaf>
@@ -222,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,6 +219,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -257,7 +232,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624955133171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624955336075" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="D:/javafx-sdk-11.0.2/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -398,6 +373,14 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1624955188398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624955188398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -415,7 +398,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.22319035" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21940105" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" weight="0.3297587" />
       <window_info id="Image Layers" order="3" />
@@ -428,15 +411,15 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.33080807" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3210332" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296433" />
       <window_info anchor="bottom" id="Problems" order="9" />
       <window_info anchor="bottom" id="Changes" order="10" />
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" weight="0.32869786" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32841328" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32841328" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32869786" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -453,6 +436,8 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -489,10 +474,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mysys/view/BeginScene.fxml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mysys/view/BookingScene.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
@@ -694,15 +675,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mysys/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="-264">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysys/view/BookingScene.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
   </component>
   <component name="masterDetails">
